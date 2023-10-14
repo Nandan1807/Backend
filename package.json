@@ -1,7 +1,5 @@
 {
-  {
   "engines":>=14.20.1
-  },
   "name": "bkend",
   "version": "1.0.0",
   "description": "",
